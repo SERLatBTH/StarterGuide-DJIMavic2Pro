@@ -7,8 +7,8 @@ Generally the protocol how to reterieve the box and put it together
 TODO
 
 ## Box content
-1- Main unit
-2- Controller
+1- Aircraft (main unit)
+2- Lcd Controller
 3- Box 1 
   3-1 Documentations: quick start guide, in the box, support contact, Intelligent flight battery safety guideline, Disclaimer and safety guidelines)
   3-2 3x bags with two pairs of propeller in each (fan blades)
