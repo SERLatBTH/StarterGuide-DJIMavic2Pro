@@ -1,4 +1,4 @@
-# DJI Mavic PRO II Drone
+# DJI Mavic 2 PRO Drone
 Here's the manual on how to use the DJI Mavic II Pro Drone
 Please follow the instructions
 
