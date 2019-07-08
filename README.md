@@ -113,7 +113,7 @@ https://dl.djicdn.com/downloads/Mavic_2/20180823/Mavic_2_Disclaimer_and_Safety_G
 + Available SDKs: Mobile, UX, OnBoard, Payload, Windows.
 
 ##  How to put the device back
-general instructions for returning what you have borrowed
+After finish using the device. It is important to turn it off and deassemble and put it back in the box as it was found, then put it in its place.
 
 ## More Documentations
 More documentations and materials to download could be found [here](https://www.dji.com/se/mavic-2/info#downloads).
