@@ -21,7 +21,7 @@ The whole contents in the box is shown as below in the picture (SDK is not inclu
 Literally, everything you do step by step
 
 ### Assembly
-1. Install the mobile app from the app store (Apple [LINK], Android[LINK])
+1. Install the mobile app DJI GO 4 from the app store or googler play [DJI GO 4](https://dl.djicdn.com/downloads/RC/1212121.jpg)
 2. Take the parts out of the box
 3. Start by taking the aircraft and remove the gimbal (plastic) cover from the camera
 4. Unfold the front arms one by one by pulling it outside away from the aircraft body.
