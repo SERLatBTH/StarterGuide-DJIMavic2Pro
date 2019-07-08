@@ -42,9 +42,9 @@ Literally, everything you do step by step
 In case the aircaft and the controller both has enough charge then you can skip this second and move on to the next.
 + The power adapter included in the box can charge both the aircraft and the remote controller
 + Charging the aircraft (Charging Time ~ 1 hour 30 minutes)
- ...1. Remove the battery from the top of the aircraft by pressing on both buttons on the side
- ...2. Connect the batter to the charger 
- ...3. A green indicater blinks showing that the battery is being charged.
+ 1. Remove the battery from the top of the aircraft by pressing on both buttons on the side
+ 2. Connect the batter to the charger 
+ 3. A green indicater blinks showing that the battery is being charged.
 + Charging the remote controller (Charging Time ~ 2 hour 15 minutes)
  1. Remove the usb cable from the left side of the controller
  2. Pull out the small usb cable on the side of the power adapter and connect it to the remote controller.
