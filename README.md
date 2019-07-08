@@ -55,12 +55,16 @@ In case the aircaft and the controller both has enough charge then you can skip 
 2. Press the power button on the aircraft, then press and hold to pwoer on the aircraft
 3. Launch the app DJI GO 4. 
 
-## Device's functionalities
+## Device's Functionalities and Features
 
-+ Fly :)
-+ Remote controller using the controller in the box with range up to 8km
++ Auto take off and auto landing.
++ Fly up to 18 km, for 31 minutes with fully charged battery.
++ Remote controlled using the controller in the box with range up to 8km
 + Live View: streaming live video up to 1080p from the camera on board of the aircraft to the mobile app.
-+ 
++ Video Recording: 4k, 2.7K, FHD video on the SDK card.
++ Still photo: single shot, burst shooting: 3/5 frames, auto exposure bracketing (AEB)
++ Obstacle Sensing.
++ Intelligent Flight Modes : HyperLapse, ActiveTrackTM  2.0, QuickShot, Panorama, and Advanced Pilot Assistance Systems
 
 ## Safety Guidelines
 ### Environmental Consideration
