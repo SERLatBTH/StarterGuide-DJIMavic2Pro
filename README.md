@@ -42,13 +42,13 @@ Literally, everything you do step by step
 In case the aircaft and the controller both has enough charge then you can skip this second and move on to the next.
 + The power adapter included in the box can charge both the aircraft and the remote controller
 + Charging the aircraft (Charging Time ~ 1 hour 30 minutes)
- ..1. Remove the battery from the top of the aircraft by pressing on both buttons on the side
- ..2. Connect the batter to the charger 
- ..3. A green indicater blinks showing that the battery is being charged.
+ ...1. Remove the battery from the top of the aircraft by pressing on both buttons on the side
+ ...2. Connect the batter to the charger 
+ ...3. A green indicater blinks showing that the battery is being charged.
 + Charging the remote controller (Charging Time ~ 2 hour 15 minutes)
- ..1. Remove the usb cable from the left side of the controller
- ..2. Pull out the small usb cable on the side of the power adapter and connect it to the remote controller.
- ..3. The lcd will lit and shows that the device is charging.
+ 1. Remove the usb cable from the left side of the controller
+ 2. Pull out the small usb cable on the side of the power adapter and connect it to the remote controller.
+ 3. The lcd will lit and shows that the device is charging.
 
 ### Powering UP
 1. Press the power button on the remote controller, then press and hold to pwoer on the remote controller.
@@ -103,8 +103,10 @@ For more detailed safety information, you can go this link.
 https://dl.djicdn.com/downloads/Mavic_2/20180823/Mavic_2_Disclaimer_and_Safety_Guidelines_EN.pdf
 
 ## Documentation for APIs or SKDs etc.
-where to get the information, what to install, etc.
 
++ To use the SDK and build apps for the device you need to register as developer. Go [here](https://developer.dji.com/) then click become a developer.
++ Documentation and the SDK files per platform can be found [here](https://developer.dji.com/)
++ Available SDKs: Mobile, UX, OnBoard, Payload, Windows.
 
 ##  How to put the device back
 general instructions for returning what you have borrowed
