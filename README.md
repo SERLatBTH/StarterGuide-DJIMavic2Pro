@@ -11,10 +11,11 @@ TODO
 2. Lcd Controller![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/initial%20state.jpg)
 3. Box 1
   * Documentations: quick start guide, in the box, support contact, Intelligent flight battery safety guideline, Disclaimer and safety guidelines)
-  * 3x bags with two pairs of propeller in each (fan blades)
-4. Box 2: power adapter and cable
-5. Box 3:  
+  * 3x bags with two pairs of propeller in each (fan blades)![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/Mavic%202%20Pro(EU).jpg)
+4. Box 2: power adapter and cable![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/cable%20power%20box.jpg)
+5. Box 3:  ![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/cable%20box.jpg)
 6. SanDisk Adapter
+The whole contents in the box is shown as below in the picture (SDK is not included in the picture).Please check the content when you get the box and returen, SDK should be included. ![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/everything%20in%20Box.jpg)
 
 ## Step by step instructions how to make the drone work
 Literally, everything you do step by step
