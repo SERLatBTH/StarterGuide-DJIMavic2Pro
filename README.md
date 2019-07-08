@@ -62,6 +62,46 @@ In case the aircaft and the controller both has enough charge then you can skip 
 + Live View: streaming live video up to 1080p from the camera on board of the aircraft to the mobile app.
 + 
 
+## Safety Guidelines
++ Environmental Consideration
+..1. Always fly at locations that are clear of magnetic or radio interference, building and other obstacles. 
+..2. NOT fly above or near large crowds. 
+..3. Be very careful when flying 19,685 feet (6,000 m) or more above sea level. 
+..4. Fly in moderate weather conditions with temperatures between 14 to 104 F(-10 to 40 C) 
+..5.Please take additional caution while flying indoors because the aircraft stabilization featurs maybe interfered with. 
+..6. DO NOT fly when the wind speeds exceeding 10 m/s or 22 mph. 
++ Pre-flight Checklist 
+..1. Ensure the stickers on the camera, vision system and infrared sensing system are removed before use. 
+..2. Ensure to remove the gimbal cover before powering on the aircraft.
+..3. Ensure the remote controller and aircraft batteries are fully charged 
+..4. Please ensure that the arms of the aircraft are all unfolded before flying. Ensure the Intelligent Flight Battery is mounted firmly in place. 
+..5. Ensure the propellers are in good condition and securely tightened before each flight
+..6. Ensure there is nothing obstructing the motors. 
+..7. Check that the camera lens and sensors are clean and free of stains.
+..8. Only calbrate the compass when the DUI GOTM 4 app or the status indicator prompt you to do so. 
+..9. Ensure the DJI GO 4 app and aircraft's firmware have been upgraded to the latest version. 
+..10. Be familiar with the selected flight mode and understand all safety functions and warnings.
+..11. Ensure that your flight area is outside the GEO Zones and flight condtions are sutable for flying the aircraft.
+..12. Ensure the DJI GO 4 app is properly launched to assist your operation of the arcraft. WITHOUT THE FLIGHT DATA RECORDED BY THE DUI GO 4 App, IN CERTAIN SITUATIONS (INCLUDING THE LOSS OF YOUR AIRCRAFT) DJI MAY NOT BE ABLE TO PROVIDE AFTERSALES SUPPORT TO YOU LIABILITY.
++ Operation 
+..1. DO NOT start the motors before unfolding the arms. Otherwise it may damage the aircraft 
+..2. DO NOT touch the battery buckles while holding the aircraft to avoid it dropping off. ..3. Stay away from the rotating propellers and motors.
+..4. Maintain visual Ine of sight of your aircraft all times. 
+..5. DO NOT answer incoming calls, text messages or do anything that may distract you from ope your smart device to control the aircraft during flight 
+..6. DO NOT fly under the influence of alcohols or drugs
+..7. DO NOT fly close to reflective surfaces such as water or snow, as these types of terrain may affect the performance of the vision system. Only fly the aircraft in encironments with good lighting and visibility when GPS signal is weak. 
+..8. Land the aircraft in a safe location when there is a low battery or high wind warining.
+..9. Please set the Return-to-Home (RTH) Altitude at a level higher than surrounding obstacles using the DJI GO 4 app.
+..10. The aircraft obstructions during RTH when the visual system is disabled. Use the remote controller to control the aircraft's speed and altitude to avoid collisions during RTH.
+..11. After landing, first stop the motor, then turn off the intelligent flight battery, and then turn off the remote controller.
+..12. When using Inteligent Flight Modes, be prepared to take control of the aircraft pushing the sticks and pressing the Flight Pause button or tap the on-screen stop button. Please note that the aircraft will continue performing the Intelligent Flight functions after you pushed the sticks. Press the stop button on the screen to exit such on-going functions completely 
+..13. The pilot must pay attention and control the aircraft at all times during flight. Safety and flight assistance features such as obstacle avoidance and precision landing are meant to assist the pilot, not to replace their control of the aircraft. 
+..14. Environmental lighting and the surface texture of obstacles may impact the performance of the visual system. Inteligent flight control features such as precision landing obstacle avoidance are disabled when the visual system's functions are impaired. Please refer to the User Manual for more information
+   
+   
+For more detailed safety information, you can go this link.
+https://dl.djicdn.com/downloads/Mavic_2/20180823/Mavic_2_Disclaimer_and_Safety_Guidelines_EN.pdf
+
 ## Documentation for APIs or SKDs etc.
 where to get the information, what to install, etc.
 
