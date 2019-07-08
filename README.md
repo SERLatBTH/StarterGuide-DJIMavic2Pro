@@ -3,8 +3,7 @@ Here's the manual on how to use the DJI Mavic II Pro Drone
 Please follow the instructions
 
 ## The box and the location
-Generally the protocol how to reterieve the box and put it together
-TODO
+Storage room - shelf B
 
 ## Box content
 1. Aircraft (main unit)
