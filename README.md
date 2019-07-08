@@ -8,7 +8,7 @@ TODO
 
 ## Box content
 1. Aircraft (main unit)
-2. Lcd Controller
+2. Lcd Controller![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/initial%20state.jpg)
 3. Box 1
   * Documentations: quick start guide, in the box, support contact, Intelligent flight battery safety guideline, Disclaimer and safety guidelines)
   * 3x bags with two pairs of propeller in each (fan blades)
