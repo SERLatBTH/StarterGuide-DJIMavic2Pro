@@ -11,7 +11,7 @@ Storage room - shelf B1
 
 + [In the box](InTheBox.md)
 + [Assembly](Assembly.md)
-+ [Connecting with DJI Mavic 2 Pro]()
-+ [Operation](ConnectingWithMavic2.md)
++ [Connecting with DJI Mavic 2 Pro](ConnectingWithMavic2.md)
++ [Operation]()
 + [Safety Instructions](#)
 + [How to put back](#)
