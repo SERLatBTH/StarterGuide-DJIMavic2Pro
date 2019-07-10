@@ -7,15 +7,15 @@ Storage room - shelf B
 
 ## Box content
 1. Aircraft (main unit)
-2. Remote Controller![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/initial%20state.jpg)
+2. Remote Controller![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/initial%20state.jpg)
 3. Box 1
   * Documentations: quick start guide, in the box, support contact, Intelligent flight battery safety guideline, Disclaimer and safety guidelines)
-  * 3x bags with two pairs of propeller (fan blades) in each bag.![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/instructions%20and%20propeller.jpg)
-4. Box 2: power adapter and cable![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/cable%20power%20box.jpg)
-5. Box 3: connection cables : usb adapter, 3x RC cable (one already on the controller), communication cable USB type-c![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/cable%20box.jpg)
+  * 3x bags with two pairs of propeller (fan blades) in each bag.![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/instructions%20and%20propeller.jpg)
+4. Box 2: power adapter and cable![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/cable%20power%20box.jpg)
+5. Box 3: connection cables : usb adapter, 3x RC cable (one already on the controller), communication cable USB type-c![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/cable%20box.jpg)
 6. SanDisk Adapter
 
-The whole contents in the box is shown as below in the picture (SD card is not included in the picture).Please check the content when you get the box and returen, SD  card should be included. ![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/everything%20in%20the%20box.jpg)
+The whole contents in the box is shown as below in the picture (SD card is not included in the picture).Please check the content when you get the box and returen, SD  card should be included. ![alt text](https://github.com/SERLatBTH/DJIMavic2Pro/blob/master/images/everything%20in%20the%20box.jpg)
 ## Step by step instructions how to make the drone work
 Literally, everything you do step by step
 
