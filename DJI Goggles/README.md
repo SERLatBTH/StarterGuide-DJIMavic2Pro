@@ -9,7 +9,7 @@ Storage room - shelf B1
 
 ## Content:
 
-+ [In the box](#)
++ [In the box](/InTheBox.md)
 + [Assembly](#)
 + [Connecting with DJI Mavic 2 Pro]()
 + [Operation](#)
