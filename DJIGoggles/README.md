@@ -9,15 +9,15 @@ In this file you will find everything you need to assemble the device, power it 
 - [Where To Find](#where-to-find)
 - [In The Box](#in-the-box)
 - [How To Make It Works](#how-to-make-it-works)
-  * [Assembly](#assembly)
-  * [Charging The Batteries](#charging-the-batteries)
-  * [Connecting with DJI Mavic 2 Pro](#connecting-with-dji-mavic-2-pro-drone)
-  * [Powering Up](#powering-up)
+  - [Assembly](#assembly)
+  - [Charging The Batteries](#charging-the-batteries)
+  - [Connecting with DJI Mavic 2 Pro](#connecting-with-dji-mavic-2-pro-drone)
+  - [Powering Up](#powering-up)
 - [Device's Functionalities and Features](#devices-functionalities-and-features)
 - [Safety Guidelines](#safety-guidelines)
 - [SDK](#sdk)
 - [Accessories](#accessories)
-  * [Air flight](/airflight)
+  - [Air System](#air-system)
 - [Putting The Device Back](#putting-the-device-back)
 - [More Documentations](more-documentations)
 
@@ -83,8 +83,7 @@ To connect with Mavic 2 Pro:
 ## SDK
 
 ## Accessories
-### Air flight
-
+### Air System
 
 ## Putting The Device Back
 
