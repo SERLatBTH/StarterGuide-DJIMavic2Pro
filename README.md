@@ -139,9 +139,10 @@ https://dl.djicdn.com/downloads/Mavic_2/20180823/Mavic_2_Disclaimer_and_Safety_G
 
 ## SDK
 
-+ To use the SDK and build apps for the device you need to register as developer. Go [here](https://developer.dji.com/) then click become a developer.
-+ Documentation and the SDK files per platform can be found [here](https://developer.dji.com/)
-+ Available SDKs: Mobile, UX, OnBoard, Payload, Windows.
+* To use the SDK and build apps for the device you need to register as developer. Go [here](https://developer.dji.com/) then click become a developer.
+* Documentation and the SDK files per platform can be found [here](https://developer.dji.com/)
+* Available SDKs: Mobile, UX, OnBoard, Payload, Windows.
+* Features: flight, camera, missions and subsystems.
 
 
 ##  Putting The Device Back

@@ -15,7 +15,6 @@ In this file you will find everything you need to assemble the device, power it 
   - [Powering Up](#powering-up)
 - [Device's Functionalities and Features](#devices-functionalities-and-features)
 - [Safety Guidelines](#safety-guidelines)
-- [SDK](#sdk)
 - [Accessories](#accessories)
   - [Air System](#air-system)
 - [Putting The Device Back](#putting-the-device-back)
@@ -51,9 +50,9 @@ Storage room - shelf B1
 
 ### Assembly
 
-1. Insert the headband buckle into the slot above the DJI goggles body
+1. Insert the headband buckle into the slot above the DJI goggles body.
 2. Press on the power button once to check the battery level.
-3. Charge the device if needed by going [here](charging).
+3. Charge the device if needed (refer to charging the battery section).
 4. Adjust the headband to your head size with the wheel found on the back of headband.
 5. Adjust inter-pupillary distance (between lenses) from the wheel found on the bottom of the goggles body.
 6. Wear the headband with the goggles attached on your head.
@@ -61,7 +60,7 @@ Storage room - shelf B1
 
 ### Charging The Battery
 
-1. make sure the goggles main body and the headband are assembled.
+1. Make sure the goggles main body and the headband are assembled.
 2. USE the micro USB cable and the power adapter provided to charge the goggles
 3. Connect the cable to the micro USB port found on the headband.
 
@@ -78,9 +77,17 @@ To connect with Mavic 2 Pro:
 7. The devices are synced and you can now see live view from the camera on the drone.
 
 ## Device's Functionalities and Features
-## Safety Guidelines
 
-## SDK
+* Live View
+* Head Tracking
+* Intelligent Flight Mode
+* Recording footage from the flight on an SD card
+* Connect with Mavic drones using wireless or HDMI cable
+* Connect with third party drones using air system.
+* Watch feed from external monitor or television.
+
+
+## Safety Guidelines
 
 ## Accessories
 ### Air System
