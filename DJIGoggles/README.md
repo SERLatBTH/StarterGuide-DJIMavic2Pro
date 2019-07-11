@@ -16,7 +16,7 @@ In this file you will find everything you need to assemble the device, power it 
 - [Device's Functionalities and Features](#devices-functionalities-and-features)
 - [Safety Guidelines](#safety-guidelines)
 - [Accessories](#accessories)
-  - [Air System](#air-system)
+  - [DJI OcuSync Air System](#dji-ocusync-air-system)
 - [Putting The Device Back](#putting-the-device-back)
 - [More Documentations](more-documentations)
 
@@ -90,7 +90,26 @@ To connect with Mavic 2 Pro:
 ## Safety Guidelines
 
 ## Accessories
-### Air System
+### DJI OcuSync Air System
+This is all the external cables or equirment that you need for DJI Goggles. Blow is the list of the content, check befor you get the box and when you return.
+1. Air Unit
+2. Camera
+3. Pagoda Antenna (SMA interface)
+4. Pagoda Antenna (MMCX interface)
+5. Dipole Antenna *2
+6. Cylindrical Antenna *2
+7. Mono 3.5mm Jack Plug to Mono 3.5mm Jack Plug Cable
+8. Mono 3.5mm Jack Plug to Mini-Din Plug Cable
+9. Mono 3.5mm Jack Plug to Furans Square Plug Cable
+10. 3 in 1 Cable
+11. PPM Cable
+12. MMCX to SMA Cable
+13. MMCX to MMCX Cable*2
+14. Plastic Holder
+15. Screw*6
+![alt text](/images/DJI%20OcuSync%20Air%20System/box.jpg)
+![alt text](/images/DJI%20OcuSync%20Air%20System/DJI%20OcuSync%20Air%20System%20Box%20content.jpg)
+![alt text](/images/DJI%20OcuSync%20Air%20System/detailedContent.png)
 
 ## Putting The Device Back
 
