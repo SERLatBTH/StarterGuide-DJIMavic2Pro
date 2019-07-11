@@ -1,6 +1,7 @@
 # DJI Mavic 2 PRO Drone
-Here's the manual on how to use the DJI Mavic II Pro Drone
-Please follow the instructions
+Here's the manual on how to use the DJI Mavic II Pro Drone.
+
+Please follow the instructions.
 
 ## Content
 * [Where To Find](#where-to-find)
@@ -17,6 +18,7 @@ Please follow the instructions
 * [SDK](#sdk)
 * [Accessories](#accessories)
   * [DJI Goggles](DJIGoggles)
+  * [Mavic 2 Fly More Kit](#mavic-2-fly-more-kit)
 * [Putting The Device Back](#putting-the-device-back)
 * [More Documentations](more-documentations)
 
@@ -120,7 +122,8 @@ In case the aircraft and the controller both has enough charge then you can skip
 ### Operation
 
 1. DO NOT start the motors before unfolding the arms. Otherwise it may damage the aircraft
-2. DO NOT touch the battery buckles while holding the aircraft to avoid it dropping off. ..3. Stay away from the rotating propellers and motors.
+2. DO NOT touch the battery buckles while holding the aircraft to avoid it dropping off. 
+3. Stay away from the rotating propellers and motors.
 4. Maintain visual Ine of sight of your aircraft all times.
 5. DO NOT answer incoming calls, text messages or do anything that may distract you from ope your smart device to control the aircraft during flight
 6. DO NOT fly under the influence of alcohols or drugs
@@ -144,6 +147,26 @@ https://dl.djicdn.com/downloads/Mavic_2/20180823/Mavic_2_Disclaimer_and_Safety_G
 * Available SDKs: Mobile, UX, OnBoard, Payload, Windows.
 * Features: flight, camera, missions and subsystems.
 
+## Accessories 
+
+### DJI Goggles
+
+DJI Goggles are used to connect the DJI Mavic 2 PRO Drone. The details can be found [here](/DJIGoggles/README.md).
+
+### Mavic 2 Fly More Kit
+
+Here is the external Kit for Mavic 2. Please check the content when you get and return.
+1. Bag
+2. Shoulder Belt
+3. Battery Charging Hub
+4. Car Charger
+5. Bettery to Power Bank Adaptor
+6. Intelligent Flight Battery *2
+7. Propellers (one marked, one unmarked) *2 pairs
+8. Documentation (MAVIC 2 Fly More Kit)
+![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%26bag.jpg)
+![alt text](/images/Mavic%202%20Fly%20More%20Kit/bag.jpg)
+![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%20content.jpg)
 
 ##  Putting The Device Back
 
