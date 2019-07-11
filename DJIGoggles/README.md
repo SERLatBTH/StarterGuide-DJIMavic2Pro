@@ -91,7 +91,7 @@ To connect with Mavic 2 Pro:
 
 ## Accessories
 ### DJI OcuSync Air System
-This is all the external cables or equirment that you need for DJI Goggles. Blow is the list of the content, check befor you get the box and when you return.
+This is all the external cables or equirment that you need for DJI Goggles. Blow is the list of the content, check before you get the box and when you return.
 1. Air Unit
 2. Camera
 3. Pagoda Antenna (SMA interface)
