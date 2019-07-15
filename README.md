@@ -116,7 +116,7 @@ In case the aircraft and the controller both has enough charge then you can skip
 9. Ensure the DJI GO 4 app and aircraft's firmware have been upgraded to the latest version.
 10. Be familiar with the selected flight mode and understand all safety functions and warnings.
 11. Ensure that your flight area is outside the GEO Zones and flight condtions are sutable for flying the aircraft.
-12. Ensure the DJI GO 4 app is properly launched to assist your operation of the arcraft. WITHOUT THE FLIGHT DATA RECORDED BY THE DUI GO 4 App, IN CERTAIN SITUATIONS (INCLUDING THE LOSS OF YOUR AIRCRAFT) DJI MAY NOT BE ABLE TO PROVIDE AFTERSALES SUPPORT TO YOU LIABILITY.
+12. Ensure the DJI GO 4 app is properly launched to assist your operation of the arcraft. WITHOUT THE FLIGHT DATA RECORDED BY THE DUI GO 4 App, IN CERTAIN SITUATIONS (INCLUDING THE LOSS OF YOUR AIRCRAFT) DJI MAY NOT BE ABLE TO PROVIDE AFTERSALES SUPPORT TO YOU OR ASSUME LIABILITY.
 
 
 ### Operation
@@ -134,7 +134,7 @@ In case the aircraft and the controller both has enough charge then you can skip
 11. After landing, first stop the motor, then turn off the intelligent flight battery, and then turn off the remote controller.
 12. When using Intelligent Flight Modes, be prepared to take control of the aircraft pushing the sticks and pressing the Flight Pause button or tap the on-screen stop button. Please note that the aircraft will continue performing the Intelligent Flight functions after you pushed the sticks. Press the stop button on the screen to exit such on-going functions completely
 13. The pilot must pay attention and control the aircraft at all times during flight. Safety and flight assistance features such as obstacle avoidance and precision landing are meant to assist the pilot, not to replace their control of the aircraft.
-14. Environmental lighting and the surface texture of obstacles may impact the performance of the visual system. Inteligent flight control features such as precision landing obstacle avoidance are disabled when the visual system's functions are impaired. Please refer to the User Manual for more information
+14. Environmental lighting and the surface texture of obstacles may impact the performance of the visual system. Inteligent flight control features such as precision landing obstacle avoidance are disabled when the visual system's functions are impaired. Please refer to the User Manual for more information.
 
 
 For more detailed safety information, you can go this link.
