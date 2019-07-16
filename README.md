@@ -151,7 +151,7 @@ https://dl.djicdn.com/downloads/Mavic_2/20180823/Mavic_2_Disclaimer_and_Safety_G
 
 ### DJI Goggles
 
-DJI Goggles are used to connect the DJI Mavic 2 PRO Drone. The details can be found [here](/DJIGoggles/README.md).
+DJI Goggles are used to connect the DJI Mavic 2 PRO Drone. The details can be found [here](https://github.com/SERLatBTH/DJIGoggles).
 
 ### Mavic 2 Fly More Kit
 
