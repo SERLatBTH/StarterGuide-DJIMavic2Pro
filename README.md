@@ -17,7 +17,7 @@ Please follow the instructions.
   * [Pre-Flight Checklist](pre-flight-checklist)
 * [SDK](#sdk)
 * [Accessories](#accessories)
-  * [DJI Goggles](DJIGoggles)
+  * [DJI Goggles](https://github.com/SERLatBTH/DJIGoggles)
   * [Mavic 2 Fly More Kit](#mavic-2-fly-more-kit)
 * [Putting The Device Back](#putting-the-device-back)
 * [More Documentations](more-documentations)
