@@ -19,6 +19,7 @@ Please follow the instructions.
 * [Accessories](#accessories)
   * [DJI Goggles](https://github.com/SERLatBTH/DJIGoggles)
   * [Mavic 2 Fly More Kit](#mavic-2-fly-more-kit)
+  * [Backpack](#backpack)
 * [Putting The Device Back](#putting-the-device-back)
 * [More Documentations](more-documentations)
 
@@ -167,6 +168,11 @@ Here is the external Kit for Mavic 2. Please check the content when you get and 
 ![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%26bag.jpg)
 ![alt text](/images/Mavic%202%20Fly%20More%20Kit/bag.jpg)
 ![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%20content.jpg)
+
+### backpack
+
+Here is the backpack for drone which helps you easy to carry on.
+![alt text](/images/backpack.jpg)
 
 ##  Putting The Device Back
 
