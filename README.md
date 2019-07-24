@@ -169,7 +169,7 @@ Here is the external Kit for Mavic 2. Please check the content when you get and 
 ![alt text](/images/Mavic%202%20Fly%20More%20Kit/bag.jpg)
 ![alt text](/images/Mavic%202%20Fly%20More%20Kit/box%20content.jpg)
 
-### backpack
+### Backpack
 
 Here is the backpack for drone which helps you easy to carry on.
 ![alt text](/images/backpack.jpg)
